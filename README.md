@@ -7,7 +7,7 @@
 1. [デモ](#demo)
 1. [目的](#purpose)
 1. [開発環境](#dev)
-1. システム構成図
+1. [システム構成図](#systemConfiguration)
 1. 使い方
 1. こだわったポイント
 1. ライセンス情報
@@ -39,7 +39,7 @@
 言語：Dart<br>
 フレームワーク：Flutter
 
-## システム構成図
+<h2 id="systemConfiguration">システム構成図</h2>
 執筆中
 
 ## 使い方
