@@ -4,14 +4,14 @@
 
 <h2>目次</h2>
 1. [概要](#about)
-1. [デモ](#demo)
-1. [目的](#purpose)
-1. [開発環境](#dev)
-1. [システム構成図](#systemConfiguration)
-1. [使い方](#use)
-1. [こだわったポイント](#sticking)
-1. [ライセンス情報](#license)
-1. [今後の計画](#nextSteps)
+2. [デモ](#demo)
+3. [目的](#purpose)
+4. [開発環境](#dev)
+5. [システム構成図](#systemConfiguration)
+6. [使い方](#use)
+7. [こだわったポイント](#sticking)
+8. [ライセンス情報](#license)
+9. [今後の計画](#nextSteps)
 
 <h2 id="about">概要</h2>
 ファッションアプリ<br>
