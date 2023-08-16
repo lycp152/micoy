@@ -34,8 +34,8 @@
 言語：JavaScript<br>
 フレームワーク：React
 #### バックエンド
-言語：Ruby<br>
-フレームワーク：Ruby on Rails
+言語：JavaScript<br>
+フレームワーク：Node.js
 ### モバイル
 言語：Dart<br>
 フレームワーク：Flutter
